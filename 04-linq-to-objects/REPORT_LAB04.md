@@ -11,6 +11,7 @@
 **Виконав:** ст. гр. 2ПІ-24б Слободян І. В.  
 **Перевірив:** викладач Позур М. Ю.  
 **Місто / Рік:** м. Вінниця – 2026  
+**GitHub репозиторій:** [https://github.com/Gerald20001/vntu-dotnet-labs](https://github.com/Gerald20001/vntu-dotnet-labs)  
 
 ---
 
@@ -99,7 +100,7 @@ var queryResult = from s in students
 ---
 
 ## 6. Посилання на репозиторій
-- **URL репозиторію:** `https://github.com/<ваш_аккаунт>/dotnet-labs-<прізвище>`
+- **URL репозиторію:** `https://github.com/Gerald20001/vntu-dotnet-labs`
 - **Папка проєкту:** `/04-linq-to-objects`
 
 ---

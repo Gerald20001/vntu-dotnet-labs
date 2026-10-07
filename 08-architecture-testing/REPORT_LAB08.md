@@ -11,6 +11,7 @@
 **Виконав:** ст. гр. 2ПІ-24б Слободян І. В.  
 **Перевірив:** викладач Позур М. Ю.  
 **Місто / Рік:** м. Вінниця – 2026  
+**GitHub репозиторій:** [https://github.com/Gerald20001/vntu-dotnet-labs](https://github.com/Gerald20001/vntu-dotnet-labs)  
 
 ---
 
@@ -343,3 +344,9 @@ public async Task CreateBookAsync_WhenAuthorDoesNotExist_ThrowsBusinessRuleValid
 
 ## 7. Висновки
 У процесі виконання практичної роботи №8 було здійснено комплексний архітектурний рефакторинг веб-застосунку «Бібліотека» відповідно до канонів Clean Architecture. Було розділено обов'язки між шарами Domain, Application, Infrastructure та Presentation, а також усунуто пряму залежність контролерів від `DbContext` за допомогою патернів Repository та Unit of Work. Розроблено набір із 8 модульних тестів із використанням `xUnit` та `Moq`, що перевіряють роботу бізнес-правил в ізоляції, та набір із 5 інтеграційних тестів із `WebApplicationFactory`, які підтверджують коректне функціонування REST API наскрізно через HTTP-конвеєр.
+
+
+---
+
+## 8. Посилання на GitHub-репозиторій
+- **URL репозиторію:** https://github.com/Gerald20001/vntu-dotnet-labs
